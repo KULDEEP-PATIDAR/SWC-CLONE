@@ -1,0 +1,480 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: violet;
+    z-index: 100;
+    padding: 0;margin: 0;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+}
+.head{
+    display: flex;
+}
+.text{
+    color: white;
+    background-color: violet;
+
+    padding-right: 10vw;
+    
+}
+
+
+.learn{
+    background-color: violet;
+
+  color: white;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.arrow{
+    height:20px ;
+    width: 20px;
+    padding-top: 26px;
+    padding-left: 5px;
+    
+}
+.img{
+    background-color: violet;
+
+    height: 15px;
+    width: 15px;
+}
+.emp{
+    background-color: violet;
+
+}
+body{
+    background-color: black;
+    /* overflow-x: hidden;  */
+}
+.header2{
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   background-color: black;
+   position: fixed;
+   padding-left: 18vw;
+   overflow: hidden;
+   padding-right: 10vw;
+}
+.logo{
+    height: 30px;
+    width: 30px;
+
+}
+.img2{
+    height: 80px;
+    width: 80px;
+    padding-top: 40px;
+    
+}
+.student{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding-left: 40px;
+}
+.h2{
+    padding-left:50px;
+    font-size: 35px;
+    padding-right: 30px;
+}
+.item{
+    background-color: rgb(45, 41, 41);
+    border-radius: 20px;
+    margin-top: 2vh;
+}
+ul{
+    display: flex;
+    font-size: 30px;
+    color: white;
+}
+ul li{
+    padding-right: 30px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.h{
+    background-color: rgb(203, 26, 203);
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+box-shadow: 1px 2px 1px;
+    border: solid 2px rgb(57, 54, 54);
+    height: 40px;
+    width: 200px;
+}
+.h:hover{
+    background-color: darkmagenta;
+    cursor: pointer;
+}
+.we{
+    color: white;
+    padding-left: 1vw;
+    font-size: 100px;
+    line-height: 80px;
+    padding-top: 50px;
+    margin-bottom: -200px;
+}
+.ex{
+    color: rgb(216, 91, 216);
+    padding-left:28vw;
+       padding-top: 0;
+    margin-top: 0;
+    font-size:144px;
+    line-height: 0px;margin-bottom: 0;
+    padding-bottom: 0;
+
+}
+.some{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  padding-top: 0;
+    margin-top: 0px;
+    margin-left: 7vw;
+}
+.disbtn{
+    height: 50px;
+    width: 400px;
+    border: solid 2px white;
+    border-radius:10px;
+    color: white;
+    font-weight: bold;
+    background-color: blue;
+}
+.disbtn:hover{
+    height: 50px;
+    width: 400px;
+    border: solid 2px white;
+    border-radius:10px;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(130, 166, 222);
+    cursor: pointer;
+}
+.Gitbtn{
+    height: 50px;
+    width: 400px;
+    border: solid 2px white;
+    border-radius:10px;
+    color: white;
+    font-weight: bold;
+    background-color: grey;
+    
+}
+.Gitbtn:hover{
+    height: 50px;
+    width: 400px;
+    border: solid 2px white;
+    border-radius:10px;
+    color: black;
+    font-weight: bold;
+    background-color: white;
+    cursor: pointer;
+    
+}
+.photo{
+    display: flex;
+    flex: 1 1 1 1;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.head1  {
+    background-color: purple;
+    height: 400px;
+    width: 300px;
+    margin-top: 20px;
+}
+.head2  {
+    background-color: purple;
+    height: 400px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+.head3  {
+    background-color: purple;
+    height: 400px;
+    width: 300px;
+    margin-top: 20px;
+}
+.head4 {
+    background-color: purple;
+    height: 400px;
+    width: 300px;
+    margin-top: 20px;
+}
+.intro{
+    display: flex;
+    
+}
+.name{
+    color: white;
+    width: 25vw;
+    margin-left: 100px;
+    margin-bottom: 0;
+}
+.posi{
+    display: flex;
+}
+.name1{
+    color: white;
+    width: 25vw;
+    margin-left: 100px;
+    margin-top: 0;
+    padding-top: 0;
+}
+.product{
+    color: magenta;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.pro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.onei{
+    border: solid 2px plum;
+    border-radius: 5px;
+     margin-left: 14vw; 
+     margin-right: 5px;
+     padding-right: 0;
+     height: 308px;
+}
+
+.onei:hover{
+    border: solid 2px plum;
+    border-radius: 5px;
+     margin-left: 22vw; 
+     margin-right: 5px;
+     padding-right: 0;
+     height: 308px;
+     box-shadow: 1px 1px 4px;
+     background-color: lightblue;
+     cursor: pointer;
+}
+.pli{
+    border: solid 2px plum;
+    border-radius: 5px;
+    border: solid 2px plum;
+    border-radius: 5px;
+    margin-left: 0;
+    padding-left: 0;
+    margin-right: 10vw;
+
+}
+ .gi{
+    border: solid 2px plum;
+    border-radius: 5px;
+    height: 308px;
+    width: 600px;
+    margin-left: 4vw;
+    margin-right: 6px; 
+ }
+ .hi{
+    border: solid 2px plum;
+    border-radius: 5px;
+    height: 308px;
+    width: 400px;
+ }
+ .ji{
+    border: solid 2px plum;
+    border-radius: 5px;
+    height: 308px;
+    margin-left: 4vw; 
+    margin-right: 5px;
+    padding-right: 0;
+    
+ }
+ .psi{
+    border: solid 2px plum;
+    border-radius: 5px;
+    height: 308px;
+    width: 590px;
+ }
+.about{
+    display: grid;
+    grid-template-columns: auto auto;
+    color: white;
+    margin-top: 20px;
+}
+.left{
+    margin-left: 40px;
+}
+.who{
+    font-size: 20px;
+    color: rgb(151, 98, 202);
+}
+.want{
+    font-size: 20px;
+    color: rgb(151, 98, 202);
+}
+.right{
+    margin-right: 40px;
+}
+.kp{
+    font-size: 20px;
+    color: rgb(151, 98, 202);
+}
+.developer{
+    height: 70px;
+    width: 200px;border: solid 2px rgb(247, 164, 247);
+    border-radius: 20px;
+    transition: 0.5s;
+    
+}
+.developer:hover{
+    height: 70px;
+    width: 200px;border: solid 2px rgb(151, 98, 202);
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+  
+    
+}
+.designer{
+    height: 70px;
+    width: 200px;border: solid 2px rgb(247, 164, 247);
+    border-radius: 20px;
+    transition: 0.5s;
+    margin-left: 10px;
+
+}
+.designer:hover{
+    height: 70px;
+    width: 200px;border: solid 2px rgb(151, 98, 202);
+    border-radius: 20px;
+    background-color: green;
+    color: black;
+    font-weight: bold;
+
+}
+.product-manager{
+    height: 70px;
+    width: 200px;border: solid 2px rgb(247, 164, 247);
+    border-radius: 20px;
+    transition: 0.5s;
+    margin-left: 2px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.product-manager:hover{
+    height: 70px;
+    width: 200px;border: solid 2px rgb(151, 98, 202);
+    border-radius: 20px;
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+
+}
+.Growth{
+    height: 70px;
+    width: 200px;border: solid 2px rgb(247, 164, 247);
+    border-radius: 20px;
+    transition: 0.5s;
+    margin-left: 10px;
+    margin-bottom: 5px;
+
+}
+.Growth:hover{
+    height: 70px;
+    width: 200px;border: solid 2px rgb(151, 98, 202);
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+
+}
+
+
+footer{
+    height: 40vh;
+    background-color: rgb(30, 28, 28);
+    display: flex;
+}
+.fleft{
+    color: white;
+    margin-left: 40x;
+    padding-left: 30px;
+
+}
+.ae{
+    display: flex;
+   color: rgb(109, 103, 103);
+}
+.get{
+    font-size: 70px;
+    margin-left: 60px;
+    margin-bottom: 0;
+    margin-right: 18vw;
+}
+
+.fright{
+    
+    color: white;
+}
+.link{
+    color: white;
+    text-decoration: none;
+    margin-top: -10px;
+    margin-bottom: -15px;
+}
+.imp{
+    font-size: 25px;
+    padding-left: 10px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.imp:hover{
+    font-size: 25px;
+    padding-left: 10px;
+    margin-top: 0px;
+    padding-top: 0px;
+    color: rgb(251, 174, 251);
+}
+.imp{
+    color: rgb(107, 102, 102);
+    text-decoration: none;
+    margin-top: -10px;
+    margin-bottom: -15px;
+}
+.sa{
+    font-size: 25px;
+    padding-left: 10px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.hab{
+    font-size: 25px;
+    padding-left: 10px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.sports{
+    font-size: 25px;
+    padding-left: 10px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.our{
+    color: white;
+    text-decoration: none;
+    padding: 0;margin: 0;
+    margin-top: -10px;
+    margin-bottom: -15px;
+}
